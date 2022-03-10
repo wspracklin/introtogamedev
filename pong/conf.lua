@@ -1,3 +1,3 @@
-function love.conf(t)
-    t.window.title = "Pong"
-end
+-- function love.conf(t)
+--    t.window.title = "Give me a title!"
+-- end
